@@ -2,7 +2,8 @@
 Virtual Desktop-based Voice Assistant named ALEX made with Python
 
 FEATURES​:
--Search Queries from the web​
+
+-Search Queries from the web​	
 -Searching for youtube videos ​
 -Get weather for a location​
 -Tells jokes​
@@ -17,6 +18,7 @@ FEATURES​:
 -Can wish user good morning, good afternoon, good evening​
 
 Following are some module and APIs used in the project:​
+
 -pyttsx3 ​
 -pyaudio​
 -pywhatkit                                                        ​
